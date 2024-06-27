@@ -13,7 +13,7 @@ export function mostrarMenu() {
 // Función para agregar un nuevo libro
 export function agregarNuevoLibro() {
     const isbn = '987654'; // Ingresa el ISBN del nuevo libro
-    const titulo = 'Nuevo Libro'; // Ingresa el título del nuevo libro
+    const titulo = 'Viaje al centro de la tierra'; // Ingresa el título del nuevo libro
     const imagen = 'imagen2.jpg'; // Ingresa la imagen del nuevo libro
     const precioCompra = 6000; // Ingresa el precio de compra del nuevo libro
     const precioVenta = 10000; // Ingresa el precio de venta del nuevo libro
