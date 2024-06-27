@@ -1,13 +1,7 @@
-/* Este fragmento de código utiliza una expresión de función de invocación inmediata (IIFE) en
-TypeScript. 
-(()=> {
-    /* El código declara una variable constante `myName` de tipo `string` con el valor ``Nicolas''. Luego,
-    registra el valor de la variable `myName` en la consola. Todo el código está incluido en una
-    expresión de función invocada inmediatamente (IIFE) en TypeScript, lo que significa que la función
-    se ejecuta inmediatamente después de definirse. 
-        const myName: string = 'Nicolas';
-        console.log(myName);
-    })();*/
+/* 
+Instru lo que pasa es que no fui capas de hacer que me funcionara el prompt para hacer que se ingresen los datos desde la consola
+para hacer la eleccion del menu se debe directamente en el bloque de codigo
+*/
 
 import { Libro } from "./models/libros";
 import { mostrarMenu } from "./models/librosStore";
